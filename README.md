@@ -16,26 +16,26 @@ The system enhances vehicle monitoring, promotes safe driving, and can be extend
 
 ### 📌 Main Interface  
 This is the primary screen users interact with.  
-![Image](https://github.com/user-attachments/assets/c239544b-4738-4c21-99a1-4815583b9afe) 
+![Image](https://github.com/user-attachments/assets/715ada83-cd86-475d-9a25-52dfec99eaef)
 
 ### 📌 Additional Main Screens  
 Different screens showing options and data.  
-![Main Screen 1](project photos/main1.jpg)  
-![Main Screen 2](project photos/main2.jpg)  
+![Image](https://github.com/user-attachments/assets/bd2c2c4d-e038-4aae-9f4b-a0b1f9b53a12)
+![Image](https://github.com/user-attachments/assets/d6d5dadb-6445-4679-9531-626c0f694153) 
 
 ### 📌 Dashboard View  
 Displays the real-time driving statistics and logs.  
-![Dashboard](project photos/Dashboard.jpg)  
+![Image](https://github.com/user-attachments/assets/62ebf5c3-a204-4122-a51b-db6c2b10e86d) 
 
 ### 📌 Log Management  
 - **Viewing Logs** – Users can check previously recorded data.  
-  ![View Log](project photos/view_log.jpg)  
+  ![Image](https://github.com/user-attachments/assets/63999f91-062d-410d-85fd-6fb6c34e0b5c) 
 - **Clearing Logs** – Old data can be removed to free up space.  
-  ![Clear Log](project photos/clear log.jpg)  
+  ![Image](https://github.com/user-attachments/assets/2594e5ae-5db1-489e-9d34-c5a4019a5c7b)  
 
 ### 📌 Setting the System Time  
 Allows users to manually configure or sync the system time.  
-![Set Time](project photos/set time.jpg)  
+![Image](https://github.com/user-attachments/assets/ecc63df7-aa61-40b8-87ef-713928da11b3) 
 
 ## 📂 Files Included  
 
