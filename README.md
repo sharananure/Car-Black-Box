@@ -16,7 +16,7 @@ The system enhances vehicle monitoring, promotes safe driving, and can be extend
 
 ### 📌 Main Interface  
 This is the primary screen users interact with.  
-![Main Interface](project photos/main.jpg)  
+![Image](https://github.com/user-attachments/assets/c239544b-4738-4c21-99a1-4815583b9afe) 
 
 ### 📌 Additional Main Screens  
 Different screens showing options and data.  
